@@ -1,2 +1,1 @@
-# shapeai-project
-# shapeai-project
+weather app using api
